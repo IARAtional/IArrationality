@@ -124,23 +124,6 @@
 
 ---
 
-<!-- CONTRIBUTION SNAKE :: SERPIENTE DE CONTRIBUCIONES -->
-<h2 align="center"> COMMIT SNAKE RITUAL </h2>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IARational/IARational/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IARational/IARational/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/IARational/IARational/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
-
-> **📝 Nota:** Para activar la serpiente, crea el archivo `.github/workflows/snake.yml` con el workflow de <a href="https://github.com/Platane/snk">Platane/snk</a>. Se generará automáticamente en la rama `output`.
-
-</div>
-
----
-
 <!-- PHILOSOPHY  -->
 <h2 align="center"> THE FORBIDDEN TEXTS </h2>
 
@@ -172,7 +155,7 @@
 ---
 
 <!-- SYSTEM FEED :: RESPONSIVO -->
-<h2 align="center">⚡ REALITY MONITOR ⚡</h2>
+<h2 align="center"> REALITY MONITOR </h2>
 
 <div align="center">
 
@@ -195,11 +178,6 @@
 </div>
 
 ---
-
-<!-- FOOTER -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/IARational/IARational/main/assets/space_invaders_footer.gif" width="100%" alt="Space Invaders Pixel Art Animation">
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=800&lines=Signal+%3E+Noise;Meaning+%3E+Metrics;Creation+%3E+Consumption;Truth+%3E+Comfort;If+you're+reading+this...+you+have+been+chosen." width="100%" alt="Footer typing">
