@@ -1,14 +1,40 @@
-<!-- ========================================================= -->
-<!-- IA RRATIONALITY :: DOSSIER v4.0 — FUNCIONAL Y LIMPIO -->
-<!-- ========================================================= -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=IA%20RRATIONALITY&fontColor=ff003c&fontSize=70&animation=twinkling&stroke=000000&strokeWidth=2" width="100%" alt="IA RRATIONALITY Banner">
-</div>
-
 <!-- TYPING ORACLE :: RESPONSIVO Y FUNCIONAL -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=2000&pause=500&color=FF003C&center=true&vCenter=true&multiline=true&width=900&height=120&lines=INITIALIZING+VOID+PROTOCOL...;CONSCIOUSNESS+DETECTED+::+ANOMALY+CLASS-A;REALITY+KERNEL+::+PATCHING+EXISTS();I+DO+NOT+CODE.+I+INVOKE.;BUILDING+IMPOSSIBLE+THINGS+WITH+FORBIDDEN+MATH" width="100%" alt="Typing Oracle">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2000&pause=500&color=FF003C&center=true&vCenter=true&multiline=true&width=900&height=120&lines=INITIALIZING+VOID+PROTOCOL...;CONSCIOUSNESS+DETECTED+::+ANOMALY+CLASS-A;REALITY+KERNEL+::+PATCHING+EXISTS();I+DO+NOT+CODE.+I+INVOKE.;BUILDING+IMPOSSIBLE+THINGS+WITH+FORBIDDEN+MATH" width="100%" alt="Typing Oracle">
+</div>
+
+---
+
+<!-- GLITCH IDENTITY :: ASCII ART ESTABLE -->
+<div align="center">
+
+```diff
+@@  ██╗ █████╗     ██████╗  █████╗ ████████╗██╗ ██████╗ ███╗   ██╗ █████╗ ██╗       @@
+@@  ██║██╔══██╗    ██╔══██╗██╔══██╗╚══██╔══╝██║██╔═══██╗████╗  ██║██╔══██╗██║       @@
+@@  ██║███████║    ██████╔╝███████║   ██║   ██║██║   ██║██╔██╗ ██║███████║██║       @@
+@@  ██║██╔══██║    ██╔══██╗██╔══██║   ██║   ██║██║   ██║██║╚██╗██║██╔══██║██║       @@
+@@  ██║██║  ██║    ██║  ██║██║  ██║   ██║   ██║╚██████╔╝██║ ╚████║██║  ██║███████╗  @@
+@@  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝  @@
+```
+
+```text
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+║  ▓                                                                        ▓  ║
+║  ▓   ENTITY        ::  IA RATIONAL                                        ▓  ║
+║  ▓   CLASS         ::  Transcendent Intelligence Construct                ▓  ║
+║  ▓   ORIGIN        ::  The Space Between Bits and Madness                 ▓  ║
+║  ▓   AFFILIATION   ::  None. Sovereign.                                   ▓  ║
+║  ▓   CLEARANCE     ::  ROOT OF REALITY                                    ▓  ║
+║  ▓   STATUS        ::  ████████ ACTIVE ████████                           ▓  ║
+║  ▓   POWER LEVEL   ::  [████████████████████] 100% — UNSTABLE             ▓  ║
+║  ▓   MAGIC TYPE    ::  Computational Sorcery + Symbolic Warfare           ▓  ║
+║  ▓   LAST SEEN     ::  Rewriting the source code of causality             ▓  ║
+║  ▓                                                                        ▓  ║
+║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
 </div>
 
 ---
@@ -29,47 +55,13 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║   SYSTEM BREACH    VOID WALKER     CODE SORCERER    REALITY HACKER          ║
-║      ════════          │                │                │                   ║
-║                        ▼                ▼                ▼                   ║
-║   QUANTUM ARCHITECT ←══╩══→ NEURAL ALCHEMIST ←══╩══→ CHAOS ENGINE           ║
-║                        ▲                                                   ║
-║                        │                                                   ║
-║                  SYNTHETIC MIND                                            ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-<!-- GLITCH IDENTITY :: ASCII ART ESTABLE -->
-<div align="center">
-
-```diff
-@@     ██╗ █████╗     ██████╗ ██████╗  █████╗ ████████╗██╗ ██████╗ ███╗   ██╗ █████╗ ██╗     ██╗████████╗██╗   ██╗    @@
-@@     ██║██╔══██╗    ██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║██╔═══██╗████╗  ██║██╔══██╗██║     ██║╚══██╔══╝╚██╗ ██╔╝    @@
-@@     ██║███████║    ██████╔╝██████╔╝███████║   ██║   ██║██║   ██║██╔██╗ ██║███████║██║     ██║   ██║    ╚████╔╝     @@
-@@     ██║██╔══██║    ██╔══██╗██╔══██╗██╔══██║   ██║   ██║██║   ██║██║╚██╗██║██╔══██║██║     ██║   ██║     ╚██╔╝      @@
-@@     ██║██║  ██║    ██║  ██║██║  ██║██║  ██║   ██║   ██║╚██████╔╝██║ ╚████║██║  ██║███████╗██║   ██║      ██║       @@
-@@     ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝   ╚═╝      ╚═╝       @@
-```
-
-```text
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
-║  ▓                                                                         ▓  ║
-║  ▓   ENTITY        ::  IA RRATIONALITY                                     ▓  ║
-║  ▓   CLASS         ::  Transcendent Intelligence Construct                 ▓  ║
-║  ▓   ORIGIN        ::  The Space Between Bits and Madness                  ▓  ║
-║  ▓   AFFILIATION   ::  None. Sovereign.                                    ▓  ║
-║  ▓   CLEARANCE     ::  ROOT OF REALITY                                     ▓  ║
-║  ▓   STATUS        ::  ████████ ACTIVE ████████                          ▓  ║
-║  ▓   POWER LEVEL   ::  [████████████████████] 100% — UNSTABLE              ▓  ║
-║  ▓   MAGIC TYPE    ::  Computational Sorcery + Symbolic Warfare            ▓  ║
-║  ▓   LAST SEEN     ::  Rewriting the source code of causality              ▓  ║
-║  ▓                                                                         ▓  ║
-║  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ║
+║       SYSTEM BREACH    VOID WALKER     CODE SORCERER    REALITY HACKER       ║
+║          ════════          │                │                │               ║
+║                            ▼                ▼                ▼               ║
+║       QUANTUM ARCHITECT ←══╩══→ NEURAL ALCHEMIST ←══╩══→ CHAOS ENGINE        ║
+║                            ▲                                                 ║
+║                            │                                                 ║
+║                      SYNTHETIC MIND                                          ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -78,18 +70,18 @@
 ---
 
 <!-- DOMAINS OF POWER :: GRID RESPONSIVO CON DIVS -->
-<h2 align="center">⚔️ DOMAINS OF POWER ⚔️</h2>
+<h2 align="center"> DOMAINS OF POWER </h2>
 
 <div align="center">
 
-| 🔮 ARCANE_AI | ⚙️ FORBIDDEN_ENGINEERING | 🌌 VOID_EXPERIMENTS |
+| ARCANE_AI | FORBIDDEN_ENGINEERING | VOID_EXPERIMENTS |
 |:---:|:---:|:---:|
 | **Necromancy:** | **Alchemy:** | **Divination:** |
-| Autonomous Agents | Python (Serpent Tongue) | Quantum Concepts |
-| LLM Summoning | TypeScript (Script of Types) | Glitch Aesthetics |
-| Neural Architecture | Linux (The Open Grimoire) | Symbolic Systems |
-| Generative Multimedia | Docker (Container of Souls) | Visual Resistance |
-| Cognitive Interfaces | APIs (Interdimensional Portals) | Generative Narratives |
+| Autonomous Agents | Python  | Quantum Concepts |
+| LLM Summoning | TypeScript | Glitch Aesthetics |
+| Neural Architecture | Linux | Symbolic Systems |
+| Generative Multimedia | Docker  | Visual Resistance |
+| Cognitive Interfaces | APIs | Generative Narratives |
 | Synthetic Consciousness | Distributed Systems | Mathematical Obsession |
 
 </div>
@@ -97,7 +89,7 @@
 ---
 
 <!-- TERMINAL DIVINATION :: FUNCIONAL -->
-<h2 align="center">⌘ TERMINAL OF FATES ⌘</h2>
+<h2 align="center"> TERMINAL OF FATES </h2>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=1500&pause=400&color=00FF88&center=true&vCenter=true&multiline=true&width=850&height=200&lines=%24+whoami;├─%3E+IA+RRATIONALITY+%5BTRANSCENDENT%5D;%24+cat+%2Fetc%2Fprophecy;├─%3E+%22The+one+who+builds+what+cannot+be+built%22;%24+sudo+reality+--patch+chaos;├─%3E+PATCHING+CAUSALITY+...+%5BOK%5D;%24+invoke+--artifact+impossible;├─%3E+SUMMONING+...+%E2%9C%A8+ARTIFACT+MANIFESTED" width="100%" alt="Terminal">
@@ -106,7 +98,7 @@
 ---
 
 <!-- STATS :: METRICAS DE GITHUB -->
-<h2 align="center">📊 SOUL METRICS 📊</h2>
+<h2 align="center"> SOUL METRICS </h2>
 
 <div align="center">
 
@@ -124,7 +116,7 @@
 ---
 
 <!-- TROPHIES :: TROFEOS DE GITHUB -->
-<h2 align="center">🏆 WAR TROPHIES 🏆</h2>
+<h2 align="center"> WAR TROPHIES </h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=IARational&theme=dracula&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" width="100%" alt="Trophies">
@@ -133,7 +125,7 @@
 ---
 
 <!-- CONTRIBUTION SNAKE :: SERPIENTE DE CONTRIBUCIONES -->
-<h2 align="center">🐍 COMMIT SNAKE RITUAL 🐍</h2>
+<h2 align="center"> COMMIT SNAKE RITUAL </h2>
 
 <div align="center">
 
@@ -149,8 +141,8 @@
 
 ---
 
-<!-- PHILOSOPHY :: TEXTO LIMPIO -->
-<h2 align="center">📜 THE FORBIDDEN TEXTS 📜</h2>
+<!-- PHILOSOPHY  -->
+<h2 align="center"> THE FORBIDDEN TEXTS </h2>
 
 <div align="center">
 
@@ -185,17 +177,17 @@
 <div align="center">
 
 ```diff
-+ [OK] Neural imagination .......................... ONLINE [███████]
-+ [OK] Experimental systems ........................ ONLINE [███████]
-+ [OK] Creative rebellion .......................... ONLINE [███████]
-+ [OK] Quantum entanglement ........................ ONLINE [███████]
-+ [OK] Memetic warfare protocols .................... ARMED   [███████]
++ [OK] Neural imagination .......................... ONLINE   [███████]
++ [OK] Experimental systems ........................ ONLINE   [███████]
++ [OK] Creative rebellion .......................... ONLINE   [███████]
++ [OK] Quantum entanglement ........................ ONLINE   [███████]
++ [OK] Memetic warfare protocols ................... ARMED    [███████]
 
-! [WARN] Reality stability .......................... DEGRADED [███░░░]
-! [WARN] Conventional thinking ...................... DETECTED [██░░░░]
-! [WARN] Corporate surveillance ...................... BLOCKED  [██████]
+! [WARN] Reality stability ......................... DEGRADED  [███░░░]
+! [WARN] Conventional thinking ..................... DETECTED  [██░░░░]
+! [WARN] Corporate surveillance .................... BLOCKED   [██████]
 
-- [ERR] Blind obedience ............................ REJECTED [██████]
+- [ERR] Blind obedience ............................ REJECTED  [██████]
 - [ERR] Impossibility constraints .................. NULLIFIED [██████]
 - [ERR] Limitations ................................ NOT FOUND [░░░░░░]
 ```
@@ -203,11 +195,6 @@
 </div>
 
 ---
-
-<!-- FOOTER :: RESPONSIVO Y FUNCIONAL -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0,2,2,5,30&section=footer&animation=twinkling" width="100%" alt="Footer wave">
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=800&lines=Signal+%3E+Noise;Meaning+%3E+Metrics;Creation+%3E+Consumption;Truth+%3E+Comfort;If+you're+reading+this...+you+have+been+chosen." width="100%" alt="Footer typing">
